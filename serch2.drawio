@@ -1,0 +1,212 @@
+<mxfile host="65bd71144e">
+    <diagram id="rLM5ndVwxH8eX0_e_DQ2" name="第1頁">
+        <mxGraphModel dx="772" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;用戶&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" parent="1" vertex="1">
+                    <mxGeometry x="607" y="60" width="220" height="430" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="探索新內容" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="3" vertex="1">
+                    <mxGeometry x="50" y="40" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="發現流行趨勢" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="3" vertex="1">
+                    <mxGeometry x="45" y="90" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="個性化推薦" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="3" vertex="1">
+                    <mxGeometry x="50" y="140" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="發現新的創作者和品牌" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="3" vertex="1">
+                    <mxGeometry x="35" y="190" width="150" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="支持地方和國際內容" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="3" vertex="1">
+                    <mxGeometry x="50" y="250" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="促進社區互動和參與" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="3" vertex="1">
+                    <mxGeometry x="50" y="310" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="隱私和保護措施" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="3" vertex="1">
+                    <mxGeometry x="50" y="370" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="740" y="60" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="110" y="20"/>
+                            <mxPoint x="720" y="20"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="34" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="5" target="4" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="180" y="480" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="110" y="740"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;創作者&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" parent="1" vertex="1">
+                    <mxGeometry y="112.5" width="220" height="325" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="發現流行趨勢" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="4" vertex="1">
+                    <mxGeometry x="45" y="40" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="個性化推薦" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="4" vertex="1">
+                    <mxGeometry x="50" y="90" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="支持地方和國際內容" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="4" vertex="1">
+                    <mxGeometry x="50" y="140" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="促進社區互動和參與" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="4" vertex="1">
+                    <mxGeometry x="50" y="200" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="隱私和保護措施" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="4" vertex="1">
+                    <mxGeometry x="50" y="265" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="5" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="273" y="990"/>
+                            <mxPoint x="770" y="990"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;廣告商&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" parent="1" vertex="1">
+                    <mxGeometry x="163" y="550" width="220" height="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="發現流行趨勢" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="5" vertex="1">
+                    <mxGeometry x="45" y="40" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="個性化推薦" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="5" vertex="1">
+                    <mxGeometry x="50" y="90" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="發現新的創作者和品牌" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="5" vertex="1">
+                    <mxGeometry x="35" y="140" width="150" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="支持地方和國際內容" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="5" vertex="1">
+                    <mxGeometry x="50" y="200" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="促進社區互動和參與" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="5" vertex="1">
+                    <mxGeometry x="50" y="260" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="隱私和保護措施" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="5" vertex="1">
+                    <mxGeometry x="50" y="320" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="6" target="5" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="358" y="500"/>
+                            <mxPoint x="273" y="500"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="30" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="6" target="4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="590" y="340" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="47" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="6" target="42" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="468" y="530"/>
+                            <mxPoint x="567" y="530"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;平台運營團隊&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" parent="1" vertex="1">
+                    <mxGeometry x="303" y="60" width="220" height="430" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="促進社區互動和參與" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="6" vertex="1">
+                    <mxGeometry x="50" y="310" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="支持地方和國際內容" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="6" vertex="1">
+                    <mxGeometry x="50" y="250" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="發現新的創作者和品牌" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="6" vertex="1">
+                    <mxGeometry x="35" y="190" width="150" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="個性化推薦" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="6" vertex="1">
+                    <mxGeometry x="50" y="140" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="發現流行趨勢" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="6" vertex="1">
+                    <mxGeometry x="45" y="90" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="探索新內容" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="6" vertex="1">
+                    <mxGeometry x="50" y="40" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="隱私和保護措施" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="6">
+                    <mxGeometry x="51" y="370" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="合作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;rotation=0;" parent="1" vertex="1">
+                    <mxGeometry x="292" y="500" width="50" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="推銷" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="660" y="960" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="合作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="480" width="40" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="體驗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="527" y="240" width="80" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="合作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="232" y="244.5" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="吸引" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="384" y="20" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="42" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="717" y="740"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="51" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="42" target="5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="42" target="4" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="567" y="960"/>
+                            <mxPoint x="50" y="960"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="42" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;數據保護和隱私團隊&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" parent="1" vertex="1">
+                    <mxGeometry x="457" y="580" width="220" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="發現流行趨勢" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="42" vertex="1">
+                    <mxGeometry x="45" y="40" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="個性化推薦" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="42" vertex="1">
+                    <mxGeometry x="50" y="90" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="支持地方和國際內容" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="42" vertex="1">
+                    <mxGeometry x="50" y="140" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="促進社區互動和參與" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="42" vertex="1">
+                    <mxGeometry x="50" y="200" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="隱私和保護措施" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="42" vertex="1">
+                    <mxGeometry x="50" y="260" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="安全" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="720" y="540" width="40" height="62" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="495" width="80" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="安全" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="660" width="57" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="安全" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="81.5" y="910" width="57" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
