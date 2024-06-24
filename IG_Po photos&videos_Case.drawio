@@ -1,0 +1,79 @@
+<mxfile host="65bd71144e">
+    <diagram id="4wKEvRbGoczRLGZiguFd" name="第1頁">
+        <mxGraphModel dx="851" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="29" value="使用案例" style="swimlane;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="40" width="200" height="620" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="發佈照片或視頻" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="29">
+                    <mxGeometry x="10" y="50" width="180" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="編輯照片或視頻" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="29">
+                    <mxGeometry x="10" y="120" width="180" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="添加標題和標籤" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="29">
+                    <mxGeometry x="10" y="190" width="180" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="標記其他用戶" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="29">
+                    <mxGeometry x="10" y="260" width="180" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="點讚和評論" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="29">
+                    <mxGeometry x="10" y="330" width="180" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="查看統計數據&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="29">
+                    <mxGeometry x="10" y="410" width="180" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="刪除已發佈的照片或視頻" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="29">
+                    <mxGeometry x="10" y="480" width="180" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="查看發佈的照片或視頻" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="29">
+                    <mxGeometry x="10" y="550" width="180" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" style="edgeStyle=none;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" edge="1" parent="1" source="38" target="29">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="用戶" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="80" width="50" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" edge="1" parent="1" source="39" target="29">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="追隨者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="300" width="50" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" style="edgeStyle=none;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" edge="1" parent="1" source="40" target="29">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="開發人員" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="485" width="50" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" style="edgeStyle=none;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" edge="1" parent="1" source="41" target="29">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="管理人員" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="660" y="600" width="50" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" edge="1" parent="1" source="42" target="29">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="媒體" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="660" y="400" width="50" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" edge="1" parent="1" source="43" target="29">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="數據分析師" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="660" y="200" width="50" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" style="edgeStyle=none;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" edge="1" parent="1" source="44" target="29">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="廣告商" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=20;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="660" y="40" width="50" height="100" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
